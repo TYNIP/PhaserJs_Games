@@ -12,7 +12,8 @@ Collection of games using the Game Js framework "Phaser.js"
 
 
 ## Games
-**Aliens vz Michis**
+### Aliens vz Michis
+
 You're a cat moon warrior who lives in the moon. You must protect the moon from the evil aliens who want to take your home and your cookies. 
 
 - Space to shoot
@@ -20,7 +21,7 @@ You're a cat moon warrior who lives in the moon. You must protect the moon from 
 
 To win you must eliminate all aliens.
 
-**Flappy Bird** 
+### Flappy Bird 
 (Under development)
 
 ## References
