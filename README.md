@@ -20,6 +20,7 @@ You're a cat moon warrior who lives in the moon. You must protect the moon from 
 - Arrows to move
 
 To win you must eliminate all aliens.
+![aliens vs michis game](./Aliens_vs_Michis_Game/aliens_vs_michis.png)
 
 ### Flappy Bird 
 (Under development)
